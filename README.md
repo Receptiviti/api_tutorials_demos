@@ -27,3 +27,12 @@ In this repository, you will find all demo applications and tutorials that Recep
 ## First Steps
 * Clone this repository to work with locally
 * OR import the notebooks into google colab
+
+
+## Tutorials
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/vshankar/blob/master/demos/tutorials/python/Getting%20Started.ipynb)  Getting Started 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/vshankar/blob/master/demos/tutorials/python/Making%20an%20API%20Call.ipynb)  Making an API Call
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/vshankar/blob/master/demos/tutorials/python/Aggregating%20LIWC%20Scores.ipynb)  Aggregating LIWC Scores
+
+## Demos
+Coming Soon!
