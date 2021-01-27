@@ -31,6 +31,7 @@ In this repository, you will find all demo applications and tutorials that Recep
 ## Tutorials
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Making%20an%20API%20Call.ipynb)  Making an API Call
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Getting%20Started.ipynb)  Getting Started 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Getting%20Started%20with%20SALLEE.ipynb)  Getting Started with SALLEE
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Aggregating%20LIWC%20Scores.ipynb)  Aggregating LIWC Scores
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Getting%20Started%20with%20SALLEE.ipynb)  Getting Started with SALLEE
 
