@@ -33,7 +33,6 @@ In this repository, you will find all demo applications and tutorials that Recep
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Getting%20Started.ipynb)  Getting Started 
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Getting%20Started%20with%20SALLEE.ipynb)  Getting Started with SALLEE
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Receptiviti/api_tutorials_demos/blob/main/tutorials/python/Aggregating%20LIWC%20Scores.ipynb)  Aggregating LIWC Scores
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 ## Demos
 Coming Soon!
